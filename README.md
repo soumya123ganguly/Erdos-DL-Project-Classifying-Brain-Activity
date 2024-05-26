@@ -1,6 +1,6 @@
 # Harmful Brain Activity Classification using Deep Learning
 
-This project was completed as part of the Deep Learning course at the Erdos Institute.
+This project was completed as part of the Deep Learning course at the Erdos Institute in Spring 2024.
 
 Team members:  
 [Shreya Shukla](https://github.com/shreyaalkuhs)  
